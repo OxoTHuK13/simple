@@ -1,6 +1,6 @@
 <?php
 
-define('URL', 'http://10.0.0.6/');
+define('URL', 'http://simple.loc/');
 define('PATH', 'C:/xampp/htdocs/simple/');
 
 require_once PATH . 'libs/Db.php';

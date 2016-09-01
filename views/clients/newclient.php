@@ -110,7 +110,7 @@
       /** Проверка, существует ли в базе такой номер **/
       var msg = $(this);
       var x = msg.parent().parent().find('.result');
-      $.post("http://10.0.0.6/clients/ajax", {number: $(this).val()}, function (data) {
+      $.post("/clients/ajax", {number: $(this).val()}, function (data) {
         if (data.length > 1) {
           x.html("Этот номер похож на номер клиента: <strong>" + data + "</strong>");
           x.slideDown('slow');
@@ -123,18 +123,17 @@
   }
 
 // Отправка данных при помощи Ajax
-// Доработать молотком
   $('#new_client').submit(function () {
     event.preventDefault();
     var msg = $(this).serialize();
     $.ajax({
       type: 'POST',
-      url: "http://10.0.0.6/clients/create",
+      url: "/clients/create",
       data: msg,
       success: function (data) {
         $('.layout').fadeIn('slow');
         $('#result>h2').html(data);
-        setTimeout("document.location.href='http://10.0.0.6/clients/'", 50000);
+        setTimeout("document.location.href='/clients/'", 50000);
       },
       error: function (xhr, str) {
         alert('Error: ' + xhr.responseCode);
@@ -144,7 +143,7 @@
 
   $('.layout').on('click', function () {
     $(this).fadeOut('slow', function () {
-      document.location.href = 'http://10.0.0.6/clients/';
+      document.location.href = '/clients/';
     });
   });
 
