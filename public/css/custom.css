@@ -1,0 +1,59 @@
+/* 
+    Created on : 22.07.2016, 3:03:30
+    Author     : ali
+*/
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+
+.table-hover > tbody > tr:hover {
+  background-color: #f8eaa5;
+}
+
+.twitter-typeahead {
+  display: block !important;
+}
+
+.tt-menu {
+  width: 100%;
+  background: #e5e5e5;
+  opacity: 1;
+  color: black;
+  padding: 5px;
+  border-radius: 0 0 5px 5px;
+  border: #cccccc solid 2px;
+}
+
+.tt-suggestion {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #3c3c3c;
+}
+
+.input-group {
+  margin-bottom: 10px;
+}
+
+.panel-footer {
+  margin-top: 60px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.layout {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(125,125,125,0.5);
+  z-index: 1031;
+  display: none;
+  cursor: pointer;
+}
+
+.result {
+  display: none;
+}

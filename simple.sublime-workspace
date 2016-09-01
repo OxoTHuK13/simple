@@ -1,0 +1,604 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"php",
+				"php"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"t",
+				"touch"
+			],
+			[
+				"to",
+				"touch"
+			],
+			[
+				"clas",
+				"class	class …"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"fi",
+				"files"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"arr",
+				"array_push"
+			],
+			[
+				"co",
+				"connection"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"db_",
+				"db_user"
+			],
+			[
+				"db",
+				"db_user"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"array_co",
+				"array_count_values"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"fro",
+				"foreach	foreach …"
+			],
+			[
+				"v",
+				"var1"
+			],
+			[
+				"show",
+				"show_const"
+			],
+			[
+				"in",
+				"inst"
+			],
+			[
+				"set",
+				"set_var"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"em",
+				"email_validate"
+			],
+			[
+				"che",
+				"check_length"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"m",
+				"min"
+			],
+			[
+				"mb_str",
+				"mb_strlen"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"cl",
+				"clean"
+			],
+			[
+				"re",
+				"ret	return"
+			],
+			[
+				"ht",
+				"htmlspecialchars"
+			],
+			[
+				"stri",
+				"strip_tags"
+			],
+			[
+				"str",
+				"stripcslashes"
+			],
+			[
+				"su",
+				"surname"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"REQ",
+				"http_request"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"ro",
+				"roksearch_search_str"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bt",
+				"btn-order"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"order",
+				"orderd38"
+			],
+			[
+				"typ",
+				"typenum"
+			],
+			[
+				"ho",
+				"hose1"
+			],
+			[
+				"lo",
+				"loadBlock"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"item",
+				"itemprop"
+			],
+			[
+				"col",
+				"col-lg-6"
+			],
+			[
+				"array_p",
+				"array_pop"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"gl",
+				"glob"
+			],
+			[
+				"lor",
+				"laboris"
+			],
+			[
+				"lorem",
+				"Lorem"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Repository"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/parus63/plugins/system/languagefilter/languagefilter.php",
+		"/C/xampp/htdocs/parus63/plugins/system/t3/includes/core/template.php",
+		"/C/xampp/htdocs/parus63/libraries/joomla/document/document.php",
+		"/C/xampp/htdocs/parus63/libraries/cms/html/behavior.php",
+		"/C/xampp/htdocs/parus63/libraries/cms/html/html.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/modules.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/vsebaki.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/head.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/mainbody.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/one-sidebar-left.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/default 3.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/default 4.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/vbscripts.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/component.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/vsebaki.js",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/modals.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/default.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/default 2.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/custom.css",
+		"/C/Users/ali/Desktop/test.html",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/touchTouch.jquery 2.js",
+		"/C/Users/ali/Desktop/martinaglv-touchTouch-406e98c/assets/js/script.js",
+		"/C/Users/ali/Desktop/martinaglv-touchTouch-406e98c/index.html",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/touchTouch.jquery.js",
+		"/E/Distr/JetBrains PhpStorm 9.0.0/key.txt",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/Users/ali/Downloads/font-awesome-4.6.3/custom.css",
+		"/C/xampp/htdocs/404.php",
+		"/C/xampp/htdocs/test3/test.php",
+		"/C/xampp/mysql/bin/my.ini",
+		"/C/xampp/phpMyAdmin/user_password.php",
+		"/C/xampp/mysql/resetroot.bat",
+		"/C/xampp/htdocs/firstapp/classes/db.class.php",
+		"/C/xampp/php/heredoc.php",
+		"/C/xampp/php/t2xmlchk.php",
+		"/C/xampp/htdocs/orders/index.php",
+		"/C/xampp/htdocs/orders/Database.php",
+		"/C/xampp/htdocs/orders/test.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/helper.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447631004/beget/parus63.ru/public_html/modules/mod_rokajaxsearch/mod_rokajaxsearch.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/rokajaxsearch.js",
+		"/C/Users/ali/AppData/Local/Temp/Rar$DIa0.030/mod_rokajaxsearch.php",
+		"/C/Users/ali/AppData/Local/Temp/fz3temp-1/break.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447621506/beget/parus63.ru/public_html/plugins/system/t3/base-bs3/html/com_content/category/blog.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447622401/beget/parus63.ru/public_html/plugins/system/t3/base-bs3/html/com_content/category/blog_vsebaki.php",
+		"/C/Users/ali/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/beget",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447294382/beget/parus63.ru/public_html/templates/vsebaki-purityiii/html/mod_breadcrumbs/default.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447611154/beget/parus63.ru/public_html/templates/vsebaki-purityiii/tpls/features-intro-2.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447333761/beget/parus63.ru/public_html/templates/vsebaki-purityiii/html/mod_breadcrumbs/vbbreadcrumbs.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447178478/beget/parus63.ru/public_html/templates/vsebaki-purityiii/tpls/blocks/vbscripts.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447612968/beget/parus63.ru/public_html/templates/vsebaki-purityiii/tpls/blocks/features-intro-2.php",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/b7fd/layout.tpl.php",
+		"/D/Мои телефоны/Huawei Honor 4C/Прошивки/Обзор китайской 5.1 emui 3.1.txt",
+		"/D/Мои телефоны/Huawei Honor 4C/Прошивки/bootloader honor 4c.txt",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/4961/robots.txt",
+		"/C/Users/ali/Downloads/robots.txt",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/fbd5/robots.txt",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/34c1/robots.txt.dist",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447333531/beget/parus63.ru/public_html/plugins/system/t3/base-bs3/html/mod_breadcrumbs/default.php",
+		"/C/Users/ali/Desktop/order.txt",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447170465/beget/parus63.ru/public_html/plugins/system/t3/base-bs3/html/com_content/category/blog_vsebaki.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447170606/beget/parus63.ru/public_html/plugins/system/t3/base-bs3/html/com_content/category/blog.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447169591/beget/parus63.ru/public_html/templates/vsebaki-purityiii/html/com_content/category/xblog.xml",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447169581/beget/parus63.ru/public_html/templates/vsebaki-purityiii/html/com_content/category/blog.xml",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447167429/beget/parus63.ru/public_html/templates/vsebaki-purityiii/html/com_content/category/blog_vsebaki.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447167391/beget/parus63.ru/public_html/templates/vsebaki-purityiii/html/com_content/category/blog.php",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/dea7/blog.xml",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/84f5/metadata.xml",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/dd98/xblog.xml",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/e729/vsebaki.xml",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447166976/beget/parus63.ru/public_html/plugins/system/t3/base-bs3/html/com_content/category/blog_vsebaki.php",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/eac5/blog.php",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/4aaf/blog_vsebaki.php",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/09ac/mainbody.php",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/8d15/one-sidebar-left.php",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/8bec/blog.xml",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/0f2f/vsebaki.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/apps/orders/htdocs/index.php",
+		"/Z/usr/local/apache/logs/README.txt",
+		"/Z/usr/local/apache/conf/httpd.conf",
+		"/Z/usr/local/apache/logs/error.log",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/edit.tmp/94c5/install.txt",
+		"/C/WebServers/usr/local/php5/php.ini",
+		"/Z/tmp/control_error_log.txt",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1447058302/beget/parus63.ru/public_html/.htaccess",
+		"/C/WebServers/home/10.0.0.4/www/index.html",
+		"/C/WebServers/OLD/home/10.0.0.3/www/htaccess.txt",
+		"/C/WebServers/usr/local/apache/conf/httpd.conf",
+		"/C/Users/ali/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ali/Documents/NetBeansProjects/VseBaki/components/com_content/content.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446498169/beget/parus63.ru/public_html/templates/vsebaki-purityiii/tpls/blocks/vbscripts.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446505385/beget/parus63.ru/public_html/templates/vsebaki-purityiii/js/vsebaki.js",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446497741/beget/parus63.ru/public_html/templates/vsebaki-purityiii/tpls/portfolio.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446497824/beget/parus63.ru/public_html/templates/vsebaki-purityiii/tpls/vsebaki.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446506454/beget/parus63.ru/public_html/templates/vsebaki-purityiii/html/com_content/article/article-vsebaki.php",
+		"/C/WebServers/_DISTR/parus63/parus63.ru/public_html/components/com_content/views/article/view.html.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446497554/beget/parus63.ru/public_html/templates/vsebaki-purityiii/html/com_content/article/article-vsebaki.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446506415/beget/parus63.ru/public_html/templates/vsebaki-purityiii/html/layouts/joomla/content/item_aside.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446506388/beget/parus63.ru/public_html/templates/vsebaki-purityiii/html/layouts/joomla/content/info_block/hits.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446506255/beget/parus63.ru/public_html/templates/vsebaki-purityiii/html/layouts/joomla/content/info_block/block.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446506122/beget/parus63.ru/public_html/templates/vsebaki-purityiii/index.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446506018/beget/parus63.ru/public_html/templates/vsebaki-purityiii/component.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446505842/beget/parus63.ru/public_html/templates/vsebaki-purityiii/tpls/blocks/mainbody/one-sidebar-left-with-mastcol.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446500354/beget/parus63.ru/public_html/templates/vsebaki-purityiii/js/vsebaki.js",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446500123/beget/parus63.ru/public_html/templates/vsebaki-purityiii/tpls/features-intro-2.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446498054/beget/parus63.ru/public_html/templates/vsebaki-purityiii/tpls/blocks/footer.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446499072/beget/parus63.ru/public_html/templates/vsebaki-purityiii/index.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446499027/beget/parus63.ru/public_html/templates/vsebaki-purityiii/helper.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446498995/beget/parus63.ru/public_html/templates/vsebaki-purityiii/component.php",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/6147/vote.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446334864/beget/parus63.ru/public_html/templates/vsebaki-purityiii/tpls/vsebaki.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446333218/beget/parus63.ru/public_html/templates/vsebaki-purityiii/tpls/blocks/footer.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446325297/beget/parus63.ru/public_html/templates/vsebaki-purityiii/css/custom.css",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446347662/beget/parus63.ru/public_html/_learnPHP/new/test3.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446344713/beget/parus63.ru/public_html/_learnPHP/test.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446327599/beget/parus63.ru/public_html/templates/vsebaki-purityiii/html/layouts/joomla/content/info_block/category.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446325051/beget/parus63.ru/public_html/templates/vsebaki-purityiii/html/com_content/article/article-vsebaki.php",
+		"/C/users/ali/appdata/local/temp/sublime-sftp-browse-1446334541/beget/parus63.ru/public_html/templates/vsebaki-purityiii/index.php",
+		"/C/Users/ali/AppData/Local/Temp/uncom.tmp/quick.tmp/c8be/extravote.php",
+		"/C/Users/ali/AppData/Local/Temp/Rar$DIa0.132/extravote.xml",
+		"/C/Users/ali/AppData/Local/Temp/Rar$DIa0.538/extravote.xml"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"<open folders>",
+			"C:\\WebServers\\_DISTR\\parus63\\parus63.ru\\public_html"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"doc",
+			"_scripts",
+			"rokajaxsearch.js",
+			"bootstrap.js",
+			"caption.js",
+			"addCustomTag",
+			"addCustom",
+			"scr",
+			"    ",
+			"TouchTouch",
+			"virtual",
+			"ali",
+			"localhost",
+			"position",
+			"contacts",
+			"animate",
+			"##<VirtualHost *:80>\n    ##ServerAdmin webmaster@dummy-host2.example.com\n    ##DocumentRoot \"C:/xampp/htdocs/dummy-host2.example.com\"\n    ##ServerName dummy-host2.example.com\n    ##ErrorLog \"logs/dummy-host2.example.com-error.log\"\n    ##CustomLog \"logs/dummy-host2.example.com-access.log\" common\n##</VirtualHost>\n",
+			"htdocs",
+			"rewr",
+			");\n",
+			"password",
+			"pass",
+			"php",
+			"input",
+			"width",
+			"inject",
+			"scroller",
+			"width",
+			"container-scroller",
+			"loadtem",
+			"t3-admin-layout-",
+			".new-price",
+			"btn",
+			"цен",
+			" }",
+			"{ ",
+			"item",
+			"chb",
+			"price",
+			"mytab",
+			"h1",
+			"выберите",
+			"h1",
+			"php",
+			"event",
+			"beforeDisplayContent",
+			"ContentExtraVote",
+			"..",
+			"LOAD",
+			"<!-- LOAD SRIPTS -->\n",
+			"itemprop",
+			"genre",
+			"package",
+			"genre"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".price .new-price",
+			"}",
+			"{",
+			"order"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
