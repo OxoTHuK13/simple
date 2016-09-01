@@ -58,7 +58,7 @@
 
 <script>
   $('input[type=tel]').mask("+79999999999");
-  
+
   function addField() {
     event.preventDefault();
     var icon;

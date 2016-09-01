@@ -12,8 +12,9 @@
   <!--  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>-->
   <script type="text/javascript" src="<?php echo URL ?>public/js/bootstrap.js"></script>
   <script type="text/javascript" src="<?php echo URL ?>public/js/typeahead.bundle.js"></script>
+  <script type="text/javascript" src="<?php echo URL ?>public/js/maskedinput.js"></script>
   <meta charset="UTF-8">
-  <title></title>
+  <title>Simple</title>
 </head>
 <body>
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
