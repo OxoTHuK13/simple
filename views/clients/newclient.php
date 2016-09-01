@@ -57,6 +57,8 @@
 <div class="layout"><div id="result"><h3>Пользователь </h3><h2></h2><h3> успешно создан</h3></div></div>
 
 <script>
+  $('input[type=tel]').mask("+79999999999");
+  
   function addField() {
     event.preventDefault();
     var icon;
@@ -90,6 +92,7 @@
                      </div>\n\
                      <div class='alert alert-danger result'></div>\n\
                    </div>");
+    $('input[type=tel]').mask("+79999999999");
     $('#' + name + count).focus();
     $(this).parent().parent().remove();
     checkNumber();
@@ -97,13 +100,14 @@
 
   function checkNumber() {
     $(document).on('change', 'input[type=tel]', function (e) {
-      var str = $(this).val();
-      var length = str.length;
-      if ((str[0] === '8') && (length === 11)) {
-        var newStr = '+7' + str[1] + str[2] + str[3] + str[4] + str[5] + str[6] + str[7] + str[8] + str[9] + str[10];
-        $(this).val(newStr);
-      }
-      // Проверка, существует ли в базе такой номер
+//      var str = $(this).val();
+//      var length = str.length;
+//      if ((str[0] === '8') && (length === 11)) {
+//        var newStr = '+7' + str[1] + str[2] + str[3] + str[4] + str[5] + str[6] + str[7] + str[8] + str[9] + str[10];
+//        $(this).val(newStr);
+//      }
+
+      /** Проверка, существует ли в базе такой номер **/
       var msg = $(this);
       var x = msg.parent().parent().find('.result');
       $.post("http://10.0.0.6/clients/ajax", {number: $(this).val()}, function (data) {
